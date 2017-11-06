@@ -1,0 +1,11 @@
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/bin/Debug/netcoreapp2.0/AspOverflow.deps.json
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/bin/Debug/netcoreapp2.0/AspOverflow.runtimeconfig.json
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/bin/Debug/netcoreapp2.0/AspOverflow.runtimeconfig.dev.json
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/bin/Debug/netcoreapp2.0/AspOverflow.dll
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/bin/Debug/netcoreapp2.0/AspOverflow.pdb
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/obj/Debug/netcoreapp2.0/AspOverflow.csproj.CoreCompileInputs.cache
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/obj/Debug/netcoreapp2.0/AspOverflow.AssemblyInfoInputs.cache
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/obj/Debug/netcoreapp2.0/AspOverflow.AssemblyInfo.cs
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/obj/Debug/netcoreapp2.0/AspOverflow.dll
+/Users/Simon/Documents/Dock/KEA/4_semester/asp/AspOverflow/obj/Debug/netcoreapp2.0/AspOverflow.pdb
